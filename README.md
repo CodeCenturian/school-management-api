@@ -85,7 +85,7 @@ GET /api/schools/listSchools?latitude=28.61&longitude=77.20
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/school-management-api.git
+git clone https://github.com/CodeCenturian/school-management-api
 cd school-management-api
 npm install
 ```
