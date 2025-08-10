@@ -72,6 +72,21 @@ GET /api/schools/listSchools?latitude=28.61&longitude=77.20
   }
 ]
 ```
+## 🖼️ Proofs
+
+<p align="left">
+  <img src="./assets/Proof%201.png" alt="Proof 1" width="800" />
+  <br><br>
+  <img src="./assets/proof%202.png" alt="Proof 2" width="900" />
+  <br><br>
+  <img src="./assets/Proof%203.png" alt="Proof 3" width="900" />
+  <br><br>
+  <img src="./assets/Proof%204.png" alt="Proof 4" width="800" />
+  <br><br>
+  <img src="./assets/Proof%20live.png" alt="Proof live" width="800" />
+</p>
+
+
 
 ---
 
